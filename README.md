@@ -137,3 +137,17 @@ Requirement Analysis involves several key activities that ensure the successful 
 
 - **Requirement Validation**:
   - The final step is to ensure that the documented requirements meet the stakeholders’ expectations and are feasible for implementation. This may involve reviews, walkthroughs, and prototyping to validate that the requirements are correct, complete, and testable.
+
+
+## Use Case Diagrams
+
+Use Case Diagrams are a visual representation of the interactions between users (actors) and the system. They help in understanding the functional requirements by illustrating the various ways users can interact with the system.
+
+### Benefits of Use Case Diagrams
+- **Clarity:** They provide a clear overview of system functionality and user interactions.
+- **Communication:** Serve as a communication tool between stakeholders, developers, and designers.
+- **Documentation:** Help document requirements in a way that is easy to understand and reference.
+
+### Use Case Diagram for Booking Management System
+
+![Use Case Diagram](alx-booking-uc.png)
